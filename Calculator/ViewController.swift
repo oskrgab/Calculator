@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 XEngSoft. All rights reserved.
 //
 
-import UIKit // test
+import UIKit
 
 class ViewController: UIViewController
 {
